@@ -1,5 +1,6 @@
 # Deep-Audio-Isolation
-Deep Audio Isolation: Isolating Vocals from Complex Musical Tracks
+Deep Audio Isolation: Isolating Vocals from Complex Musical Tracks.
+
 Given an audio recording consisting of many mixed tracks (e.g vocals, instruments, background), it is often desirable to isolate one or more of those tracks individually. This has clear applications in fields like music/video-production, where it is useful to adjust individual tracks from a composite.
 
 Generalising, the same capability could be applied to broader domains - such as active noise cancellation (or even augmentation), or as a pre-processing step to video-calls, voice-assistants, etc.
